@@ -217,7 +217,7 @@ func (c CountryCode) String() string { //nolint:gocyclo
 	case 74:
 		return "Bouvet Island"
 	case 76:
-		return "Brazil (deprecated)"
+		return "Brazil"
 	case 86:
 		return "British Indian Ocean Territory"
 	case 96:
@@ -297,7 +297,7 @@ func (c CountryCode) String() string { //nolint:gocyclo
 	case 234:
 		return "Faroe Islands"
 	case 238:
-		return "Falkland Islands (Malvinas)"
+		return "Falkland Islands"
 	case 242:
 		return "Fiji"
 	case 246:
@@ -347,7 +347,7 @@ func (c CountryCode) String() string { //nolint:gocyclo
 	case 340:
 		return "Honduras"
 	case 344:
-		return "Hong Kong (Special Administrative Region of China)"
+		return "Hong Kong"
 	case 348:
 		return "Hungary"
 	case 352:
@@ -357,7 +357,7 @@ func (c CountryCode) String() string { //nolint:gocyclo
 	case 360:
 		return "Indonesia"
 	case 364:
-		return "Iran (Islamic Republic of)"
+		return "Iran"
 	case 368:
 		return "Iraq"
 	case 372:
@@ -379,15 +379,15 @@ func (c CountryCode) String() string { //nolint:gocyclo
 	case 296:
 		return "Kiribati"
 	case 410:
-		return "Republic of Korea"
+		return "South Korea"
 	case 408:
-		return "Democratic People`s Republic of Korea"
+		return "North Korea"
 	case 414:
 		return "Kuwait"
 	case 417:
 		return "Kyrgyzstan"
 	case 418:
-		return "Lao People`s Democratic Republic"
+		return "Laos"
 	case 428:
 		return "Latvia"
 	case 422:
@@ -397,7 +397,7 @@ func (c CountryCode) String() string { //nolint:gocyclo
 	case 430:
 		return "Liberia"
 	case 434:
-		return "Libyan Arab Jamahiriya"
+		return "Libya"
 	case 438:
 		return "Liechtenstein"
 	case 440:
@@ -405,9 +405,9 @@ func (c CountryCode) String() string { //nolint:gocyclo
 	case 442:
 		return "Luxembourg"
 	case 446:
-		return "Macau (Special Administrative Region of China)"
+		return "Macau"
 	case 807:
-		return "North Macedonia (Republic of North Macedonia)"
+		return "North Macedonia"
 	case 450:
 		return "Madagascar"
 	case 454:
@@ -433,9 +433,9 @@ func (c CountryCode) String() string { //nolint:gocyclo
 	case 484:
 		return "Mexico"
 	case 583:
-		return "Micronesia (Federated States of)"
+		return "Micronesia"
 	case 498:
-		return "Moldova (Republic of)"
+		return "Moldova"
 	case 492:
 		return "Monaco"
 	case 496:
@@ -483,7 +483,7 @@ func (c CountryCode) String() string { //nolint:gocyclo
 	case 585:
 		return "Palau"
 	case 275:
-		return "Palestinian Territory (Occupied)"
+		return "Palestinian Territory"
 	case 591:
 		return "Panama"
 	case 598:
@@ -509,7 +509,7 @@ func (c CountryCode) String() string { //nolint:gocyclo
 	case 642:
 		return "Romania"
 	case 643:
-		return "Russian Federation"
+		return "Russia"
 	case 646:
 		return "Rwanda"
 	case 654:
@@ -567,17 +567,17 @@ func (c CountryCode) String() string { //nolint:gocyclo
 	case 756:
 		return "Switzerland"
 	case 760:
-		return "Syrian Arab Republic"
+		return "Syria"
 	case 158:
-		return "Taiwan (Province of China)"
+		return "Taiwan"
 	case 762:
 		return "Tajikistan"
 	case 834:
-		return "Tanzania (United Republic of)"
+		return "Tanzania"
 	case 764:
 		return "Thailand"
 	case 626:
-		return "Timor-Leste (East Timor)"
+		return "Timor-Leste"
 	case 768:
 		return "Togo"
 	case 772:
@@ -615,7 +615,7 @@ func (c CountryCode) String() string { //nolint:gocyclo
 	case 548:
 		return "Vanuatu"
 	case 336:
-		return "Holy See (Vatican City State)"
+		return "Holy See"
 	case 862:
 		return "Venezuela"
 	case 704:
